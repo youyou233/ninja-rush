@@ -1,0 +1,16 @@
+{
+  "玩家初始距离下屏幕位置": "y轴",
+  "playerOriginPos": 200,
+  "方块初始距离上屏幕位置": "",
+  "targetOriginPos": 150,
+  "阻挡初始距离上屏幕位置": "",
+  "gapOriginPos": 350,
+  "触摸时放大倍数": "",
+  "increaseMultiple": 1,
+  "取消触摸时缩小倍数": "",
+  "reduceMultiple": 1,
+  "最大放大倍数": "",
+  "maxScale": 6,
+  "动画速率": "",
+  "animationSpeed": 1
+}
